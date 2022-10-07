@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
-- [Piyush kumar jha](https://github.com/piyushjha0409)
+- [Piyush jha](https://github.com/piyushjha0409)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Fyka Ansari](https://github.com/fykaa)
 - [Mian Azan](https://github.com/mianazan099)
